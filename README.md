@@ -5,6 +5,6 @@ This project is the submission to a previous assignment in the Microsoft Web Tec
 Download the source code by clicking the "Code" then "Download ZIP" button on the top right of the webpage. Open the Pizza folder, then open Pizza.sln file with Visual Studio. The ASP.NET MVC web application will open. Click the Play icon. The web app will launch at https://localhost:5001/.
 
 ## License
-I explicitly relinquish any copyright to this work with The Unlicense license because this project is created for educational and practice purposes only. The full license is in UNLICENSE.txt. https://unlicense.org/ In a professional situation, I will use whatever copyright license the client intends.
+I explicitly relinquish any copyright to this work with The Unlicense license because this project is created for educational and practice purposes only. The full license is in LICENSE.txt. https://unlicense.org/ In a professional situation, I will use whatever copyright license the client intends.
 
 This line of text is added only to change a file in this project, as requested by the assignment.
