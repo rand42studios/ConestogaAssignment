@@ -6,3 +6,5 @@ Download the source code by clicking the "Code" then "Download ZIP" button on th
 
 ## License
 I explicitly relinquish any copyright to this work with The Unlicense license because this project is created for educational and practice purposes only. The full license is in UNLICENSE.txt. https://unlicense.org/ In a professional situation, I will use whatever copyright license the client intends.
+
+This line of text is added only to change a file in this project, as requested by the assignment.
